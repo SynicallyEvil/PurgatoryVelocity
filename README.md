@@ -1,6 +1,6 @@
 # 🧨 PurgatoryVelocity
 
-**PurgatoryVelocity** is a Velocity proxy plugin that replaces traditional bans by redirecting punished players to a configurable "purgatory" server for a specified time. Instead of being locked out, players are sent to limbo.
+**PurgatoryVelocity** is a Velocity proxy plugin that replaces traditional bans by redirecting punished players to a configurable "purgatory" server for a specified time.
 
 ---
 
